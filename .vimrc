@@ -96,7 +96,15 @@ colorscheme elflord
 " put https://raw.github.com/altercation/vim-colors-solarized/master/colors/solarized.vim
 " in ~/.vim/colors/ and uncomment:
 " colorscheme solarized
+
+" Mouse control
 set mouse=a
+
+" No backups / swaps
 set nobackup
 set noundofile
 set noswapfile
+
+" Highlight extra whitespace
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$/
