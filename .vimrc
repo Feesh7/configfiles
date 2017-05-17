@@ -97,3 +97,6 @@ colorscheme elflord
 " in ~/.vim/colors/ and uncomment:
 " colorscheme solarized
 set mouse=a
+set nobackup
+set noundofile
+set noswapfile
