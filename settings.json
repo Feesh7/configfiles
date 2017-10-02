@@ -1,0 +1,28 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "python.pythonPath": "C:/Users/Feesh/.babun/cygwin/bin/python2.7.exe",
+    "files.associations": {
+        "*.override": "groovy"
+    },
+    "vim.disableAnnoyingNeovimMessage": true,
+    "vim.useCtrlKeys": true,
+    "editor.renderWhitespace": "boundary",
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#dcdcdc",
+        "editor.selectionBackground": "#1d4684"
+    },
+    "python.linting.enabled": false,
+    "files.eol": "\n",
+    "vim.useSystemClipboard": true,
+    "extensions.ignoreRecommendations": false,
+    "vim.hlsearch": true,
+    "vim.handleKeys":{
+        "<C-a>": false,
+        "<C-f>": false,
+        "<C-y>": false,
+        "<C-z>": false,
+        "<C-c>": false
+    },
+    "workbench.startupEditor": "newUntitledFile"
+}
